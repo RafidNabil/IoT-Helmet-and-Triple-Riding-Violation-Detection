@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "pi_uploads/*",
+        "folderStatus.json",
+        "queue.json"
+    ],
+    "ext": "js,json"
+}

@@ -1,0 +1,76 @@
+{
+  "folders": {
+    "1-1 1-1": {
+      "processed": false,
+      "back": {
+        "status": "waiting",
+        "result": null
+      },
+      "side": {
+        "status": "waiting",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    },
+    "20250922_012328": {
+      "processed": false,
+      "back": {
+        "status": "waiting",
+        "result": null
+      },
+      "side": {
+        "status": "waiting",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    },
+    "6-3 1-5": {
+      "processed": true,
+      "back": {
+        "status": "done",
+        "result": null
+      },
+      "side": {
+        "status": "done",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    },
+    "20250922_012424": {
+      "processed": false,
+      "back": {
+        "status": "waiting",
+        "result": null
+      },
+      "side": {
+        "status": "waiting",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    },
+    "20250922_012522": {
+      "processed": false,
+      "back": {
+        "status": "waiting",
+        "result": null
+      },
+      "side": {
+        "status": "waiting",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    },
+    "20250922_012613": {
+      "processed": false,
+      "back": {
+        "status": "waiting",
+        "result": null
+      },
+      "side": {
+        "status": "waiting",
+        "result": null
+      },
+      "lastChecked": "2025-09-21T19:29:21.336Z"
+    }
+  }
+}
